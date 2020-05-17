@@ -7,3 +7,15 @@ C++ Solution to all problems in Cracking the coding interview
 
 Chapter wise solutions + Medium and Hard problems
 
+- [x] Chapter 1 - Array and Strings
+- [x] Chapter 2 - LinkedList
+- [x] Chapter 3 - Stack and Queues
+- [x] Chapter 4 - Trees and Graphs
+- [ ] Chapter 5 - Bit Manipulation
+- [ ] chapter 6 - Math and Logic Puzzles
+- [ ] Chapter 7 - Object Oriented Design
+- [x] Chapter 8 - Recursion and Dynammic programming
+- [x] Chapter 10 - Sorting and Searching
+- [ ] Chapter 16 - Moderate (Inprogress)
+- [ ] Chapter 17 - Hard
+
